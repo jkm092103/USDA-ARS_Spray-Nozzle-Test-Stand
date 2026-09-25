@@ -1,0 +1,17 @@
+name: USDA-Spray-Nozzle
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.12
+  - spyder-kernels=2.5
+  - numpy
+  - pandas
+  - conda-forge::nidaqmx-python
+  - pyqt
+  - pyqt6
+  - pyqtgraph
+prefix: C:\Users\jacob\anaconda3\envs\USDA-Spray-Nozzle

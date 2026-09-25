@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Conda / local environments
+.env/
+
+# Generated test data
+*.csv
+*.log
+
+# Spyder
+.spyderproject
+.spyproject
+
+# OS files
+.DS_Store
+Thumbs.db
